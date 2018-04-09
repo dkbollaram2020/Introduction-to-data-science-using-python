@@ -12,8 +12,7 @@ import numpy as np
 from scipy.stats import ttest_ind
 ```
 
-# Assignment 4 - Hypothesis Testing
-This assignment requires more individual learning than previous assignments - you are encouraged to check out the [pandas documentation](http://pandas.pydata.org/pandas-docs/stable/) to find functions or methods you might not have used yet, or ask questions on [Stack Overflow](http://stackoverflow.com/) and tag them as pandas and python related. And of course, the discussion forums are open for interaction with your peers and the course staff.
+# Hypothesis Testing
 
 Definitions:
 * A _quarter_ is a specific three month period, Q1 is January through March, Q2 is April through June, Q3 is July through September, Q4 is October through December.
